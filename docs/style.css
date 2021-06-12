@@ -1,14 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
-body {
-  
-  width: 100%;
-  min-height: 100%;
-  display: flex;
-  
- 
-  background-color: snow;
-  font-family: Raleway;
-}
+
 .main-cont
 .navbar {
   min-height: 10%;
