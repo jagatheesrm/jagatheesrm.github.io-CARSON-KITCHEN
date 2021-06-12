@@ -5,9 +5,7 @@ body {
   min-height: 100%;
   display: flex;
   
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+ 
   background-color: snow;
   font-family: Raleway;
 }
