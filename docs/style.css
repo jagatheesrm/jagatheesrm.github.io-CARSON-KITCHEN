@@ -1,8 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 body {
-  background-color: lightblue;
+  
+  width: 100%;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: snow;
+  font-family: Raleway;
 }
-@media only screen and (max-width: 800px) {
-  body {
-    background-color: rgb(247, 247, 250);
+.main-cont
+.navbar {
+  min-height: 10%;
+  background-color: #9e9e9e;
+  padding: 1em;
   }
-}
+
+  .navbar .logo {
+    text-decoration: none;
+    color:  #ffffff;
+    size: 10px;
+    
+  }
+  .navbar a {
+    color:  #ffffff;
+ 
+    }
+
+    nav {
+      list-style-type: none;
+      text-decoration: none;
+    }
