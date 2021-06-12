@@ -33,7 +33,7 @@ body {
       list-style-type: none;
       text-decoration: none;
     }
-    container {
+    .card {
       display: flex;
       flex-direction: column;
     }
