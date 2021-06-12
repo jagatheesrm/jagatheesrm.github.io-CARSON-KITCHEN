@@ -33,3 +33,7 @@ body {
       list-style-type: none;
       text-decoration: none;
     }
+    container {
+      display: flex;
+      flex-direction: column;
+    }
